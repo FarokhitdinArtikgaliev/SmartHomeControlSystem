@@ -1,7 +1,9 @@
+
 # Smart Home Control System
 
 Java Swing GUI ↔ Arduino Smart Home Control System using USB Serial communication (COM port).
-
+## Title Page
+![Title](presentation/title-page.jpg)
 ---
 
 # Overview
@@ -9,7 +11,8 @@ Java Swing GUI ↔ Arduino Smart Home Control System using USB Serial communicat
 This project demonstrates communication between a Java Swing desktop application and Arduino UNO through USB Serial communication.
 
 The system allows the user to:
-
+## System Architecture
+![Architecture](presentation/system-architecture.jpg)
 * control LED lighting
 * activate/deactivate buzzer alarm
 * monitor temperature and humidity
