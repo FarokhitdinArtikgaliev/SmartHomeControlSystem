@@ -1,3 +1,3 @@
 ## Project Preview
 
-![Architecture](presentation/system-architecture.png)
+![Architecture](presentation/system-architecture.jpg)
