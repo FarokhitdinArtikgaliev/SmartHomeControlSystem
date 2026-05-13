@@ -1,3 +1,3 @@
 ## Project Preview
 
-![Architecture](SmartHomeControlSystem/presentation/system-architecture.jpg)
+![Architecture](presentation/info.jpg)
